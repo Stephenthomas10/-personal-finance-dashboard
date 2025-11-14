@@ -1,0 +1,5 @@
+{
+  "name": "FinCred Dashboard",
+  "description": "A polished, CRED-style personal finance dashboard to track credit card spends, upcoming bills, reward points, and credit score. It provides a clean, modern interface for managing your finances.",
+  "requestFramePermissions": []
+}
